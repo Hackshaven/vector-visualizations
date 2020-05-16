@@ -20,4 +20,5 @@ dependencies:
   - hdf5
   - ffmpeg
   - imageio
+  - rise
   
