@@ -1,0 +1,3 @@
+[submodule "VisualEffectsGraph-Samples"]
+	path = VisualEffectsGraph-Samples
+	url = https://github.com/Unity-Technologies/VisualEffectGraph-Samples.git
