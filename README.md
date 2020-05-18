@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Hackshaven/vector-visualizations/master?filepath=Tornado%20NetCDF.ipynb)
+Click here to launch an interactive container: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Hackshaven/vector-visualizations/master?filepath=Tornado%20NetCDF.ipynb)
 
 <img src="unity-vfx.png">
 
