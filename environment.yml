@@ -1,5 +1,5 @@
 
-name: example-environment
+name: texture3d
 channels:
   - conda-forge
 dependencies:
