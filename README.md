@@ -7,8 +7,7 @@ The goal of this project is to convert [NetCDF](https://www.unidata.ucar.edu/sof
 Specific functions include:
 
 - Exploring the characteristics of NetDCDF/GRIB datasets
-- ...
 
 # Documentation
 
-to be completed
+- to be completed
