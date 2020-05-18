@@ -20,5 +20,6 @@ Issues to be resolved:
 # Documentation
 
 - In addition to the python, the Unity VFX sample project should be cloned from https://github.com/Unity-Technologies/VisualEffectGraph-Samples
+- Add the texture3d unity package found in the unity folder
 - The included unity package should installed in that project.
 - More to follow...
