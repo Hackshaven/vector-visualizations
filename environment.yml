@@ -22,3 +22,4 @@ dependencies:
   - imageio
   - rise
   - seaborn
+  - flask
