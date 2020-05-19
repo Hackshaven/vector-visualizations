@@ -30,5 +30,6 @@ Issues to be resolved:
 # Documentation
 
 - In addition to the python, the Unity VFX sample project should be cloned from https://github.com/Unity-Technologies/VisualEffectGraph-Samples
+- More information about VFX graphs can be found here https://blogs.unity3d.com/2018/11/27/creating-explosive-visuals-with-the-visual-effect-graph/
 - Add the texture3d unity package found in the unity folder to the cloned VFX samples
 - More to follow...
