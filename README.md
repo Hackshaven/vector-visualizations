@@ -1,9 +1,8 @@
+# GPU-Based Vector Field Visualizations using 3D Textures 
+
 Click here to launch an interactive container: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Hackshaven/vector-visualizations/master?filepath=Tornado%20NetCDF.ipynb)
 
 [![Tornado Wind Vectors](https://i.vimeocdn.com/video/895238823.jpg)](https://vimeo.com/419597137/0aef4ad5d8 "Tornado Wind Vectors")
-
-# GPU-Based Vector Field Visualizations using 3D Textures
-
 The goal of this project is to create information-rich visualizations for geo-science that have useful interpretations for scientists and educators. To accomplish this goal, new features in [Unity](https://unity.com/) are leveraged to utilize GPU-based particle systems, with a focus on 3D vector force fields. By creating a volume having a 3D vectors at each point, we can inject particles into this volume and watch the dynamics. An analogy is a pin-ball machine, whose mechanisms supply the dynamics that effect ordinary balls. 
 
 <img align="center" width="800" height="200" src="VizPipeline.jpg">
