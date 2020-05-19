@@ -16,7 +16,7 @@ The goal of this project is to create information-rich visualizations for geo-sc
 
 <img src="unity-vfx.png" align="right" width="350">
 
-The architecture converts [NetCDF](https://www.unidata.ucar.edu/software/netcdf/) & [GRIB](https://en.wikipedia.org/wiki/GRIB) datasets into force vector fields for rendering as [3DTextures](https://docs.unity3d.com/Manual/class-Texture3D.html) in [Unity Visual Effect Graphs](https://unity.com/visual-effect-graph).
+The architecture converts [NetCDF](https://www.unidata.ucar.edu/software/netcdf/) & [GRIB](https://en.wikipedia.org/wiki/GRIB) datasets into force vector fields for rendering as [3DTextures](https://docs.unity3d.com/Manual/class-Texture3D.html) in [Unity Visual Effect Graphs](https://unity.com/visual-effect-graph). In the future, it might be interesting to investigate storing these textures in an [HDF Server](https://s3.amazonaws.com/hdfgroup/docs/HDFServer_SciPy2015.pdf).
 
 Issues to be resolved:
 
