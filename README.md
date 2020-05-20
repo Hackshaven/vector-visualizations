@@ -19,7 +19,7 @@ The architecture converts [NetCDF](https://www.unidata.ucar.edu/software/netcdf/
 
 Issues to be resolved:
 
-* Mapping dataset dimensions and values to 3D texture dimensionds and values
+* Mapping dataset dimensions and values to 3D texture dimensions and values
 * Specifying slices of the dataset dimensions to the server
 * Managing a library of datasets to be visualized
 * Bringing the real-world interpretation of these dimensions into Unity
